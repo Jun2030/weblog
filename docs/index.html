@@ -22,20 +22,21 @@
     </style>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app">Loading ...</div>
     <script>
       window.$docsify = {
+        search: {
+          maxAge: 86400000,
+          paths: 'auto',
+          placeholder: '搜索',
+          noData: '无数据',
+          depth: 2,
+        },
         loadSidebar: true, // 加载自定义侧边栏
         maxLevel: 4, // 配置最大支持渲染的标题层级
         subMaxLevel: 4, // 设置生成目录的最大层级
         coverpage: true, // 启用封面页
-        search: {
-          paths: "auto",
-          placeholder: "搜索",
-          noData: "找不到结果",
-          deep: 6
-        },
-        repo: "https://github.com/zijunwork/typescript/", // 配置仓库地址
+        repo: "https://github.com/zijunwork/weblog/", // 配置仓库地址
         auto2top: true, // 切换页面后是否自动跳转到页面顶部
         logo: "/_media/icon.svg", // 在侧边栏中出现的网站图标
         name: "weblog", // 文档标题，会显示在侧边栏顶部
