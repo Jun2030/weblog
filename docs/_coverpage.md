@@ -8,4 +8,4 @@
 - github as a new main release of the blog
 
 [GitHub](https://github.com/zijunwork/weblog/)
-[开始](/home)
+[开始]()
