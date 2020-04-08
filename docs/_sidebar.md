@@ -9,4 +9,5 @@
 * [Git](/Git/index)
 * [Node](/Node/index)
 * [Interview](/Interview/index)
+* [Others](/Others/index)
 
