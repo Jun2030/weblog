@@ -80,3 +80,12 @@ e.g.: `MyComponent.vue`, `BaseButton.vue`
 如果有多个单词，全部采用中划线命名法。
 
 e.g.: `code-guide.md`, `dev-document.md`
+
+
+
+#### 09、图片命名
+
+如果有多个单词，全部采用下划线命名法。
+
+e.g.: `icon_avatar.jpg`, `defalut_bg.png`
+
