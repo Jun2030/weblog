@@ -14,7 +14,7 @@
   - [正则基础](/regexp/base)
   - [常用正则整理](/regexp/collections)
 - [**Vue**](/vue/index)
-- [**WebPack**](/webPack/index)
+- [**WebPack**](/webpack/index)
 - **WeChatMiniProgram**
   - [小程序基础](/we-chat-mini-program/base)
   - [封装常用工具](/we-chat-mini-program/utils)
