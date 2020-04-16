@@ -21,11 +21,15 @@
   - [封装常用工具](/we-chat-mini-program/utils)
 - [**Dart**](/dart/index)
 - [**Flutter**](/flutter/index)
-- [**Git**](/git/index)
+- **Git**
+  - [git](/git/git)
+  - [sourcetree](/git/sourcetree)
+  - [github](/git/github)
 - [**Node**](/node/index)
 - [**Interview**](/interview/index)
 - **Others**
   - [常用CMD命令](/others/cmd)
   - [Docsify](/others/docsify)
+  - [Hexo](/others/hexo)
   - [Anywhere](/others/anywhere)
   - [SourceTree](/others/sourcetree)
